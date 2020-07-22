@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-(Check out my Data Science Portfolio here.)[https://stev-create.github.io/]
+[Check out my Data Science Portfolio here.](https://stev-create.github.io/)
 
 <!--
 **Stev-create/stev-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
