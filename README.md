@@ -1,6 +1,11 @@
-### Hi there 👋 
+### Hi there 👋 I'm Stev
 
 [Check out my Data Science Portfolio here.](https://stev-create.github.io/)
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="20px" src="https://stevkarta.medium.com/" />][medium]
+[<img align="left" alt="codeSTACKr | Twitter" width="20px" src="https://twitter.com/Stev_setiawan" />][twitter]
 
 <!--
 **Stev-create/stev-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
