@@ -4,8 +4,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="20px" src="https://stevkarta.medium.com/" />][medium]
-[<img align="left" alt="codeSTACKr | Twitter" width="20px" src="https://twitter.com/Stev_setiawan" />][twitter]
+[<img align="left" alt="codeSTACKr.com" width="20px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Stev_setiawan | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="https://www.linkedin.com/in/stevanus-setiawan-825209191/| LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <!--
 **Stev-create/stev-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
