@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Stev
+### Hi there I'm Stev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [Check out my Data Science Portfolio here.](https://stev-create.github.io/)
 
