@@ -2,7 +2,7 @@
 
 [Check out my Data Science Portfolio here.](https://stev-create.github.io/)
 
-## Talking about Personal Stuffs:
+#### Talking about Personal Stuffs:
 - 🔭 I’m currently working in an AI Team 
 - 📝 In my spare time, I write articles on [Medium](https://stevkarta.medium.com/) about Data Science 
 
