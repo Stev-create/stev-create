@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Stev_setiawan" | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Stev_setiawan | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Stev_setiawan]
 
 <!--
 **Stev-create/stev-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
