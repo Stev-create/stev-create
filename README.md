@@ -4,7 +4,7 @@
 
 ## Talking about Personal Stuffs:
 - 🔭 I’m currently working in an AI Team 
-- 📝 In my spare time, I write articles on Medium[https://stevkarta.medium.com/] about Data Science 
+- 📝 In my spare time, I write articles on [Medium](https://stevkarta.medium.com/) about Data Science 
 
  ---
 
