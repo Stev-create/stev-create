@@ -2,11 +2,10 @@
 
 [Check out my Data Science Portfolio here.](https://stev-create.github.io/)
 
+ ---
+
 ### Connect with me:
-
-<!-- [<img align="left" alt="Stev_setiawan | Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Stev_setiawan] -->
-<a href="https://twitter.com/Stev_setiawan"><img src=""https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"" alt="Twitter" style="width:20px;"></a>
-
+`
 <!--
 **Stev-create/stev-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
